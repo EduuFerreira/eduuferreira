@@ -1,3 +1,7 @@
+Olá, bem-vindo ao meu Github!
+Com o foco nos estudos de tecnologias, a maioria dos meus projetos no Github são de aulas.
+Mais projetos pessoais surgirão em breve...
+
 <div> 
   <a href="https://www.linkedin.com/in/eduardoferreira001" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
